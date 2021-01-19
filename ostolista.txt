@@ -1,5 +1,5 @@
 1. Maito
-2. Piimä
+2. Herppes
 3. Omena
 4. Käsirasva
 5. Leipä
@@ -7,4 +7,4 @@
 7. Herne
 8. Riisporkkana
 9. Jyvä
-
+10. Hiiri
